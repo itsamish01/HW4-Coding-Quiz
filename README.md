@@ -9,9 +9,10 @@ This is a simple and fun coding quiz application built with HTML, CSS, and JavaS
 * Contributing
 * License
 
-## Screenshot
+## Screenshot: 
 
 ## Deployed Link: 
+https://itsamish01.github.io/HW4-Coding-Quiz/
 
 ## Features
 * Responsive design that works on both desktop and mobile devices.
