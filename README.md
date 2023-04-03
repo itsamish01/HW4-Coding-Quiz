@@ -24,7 +24,7 @@ This is a simple and fun coding quiz application built with HTML, CSS, and JavaS
 ## Installation
 To get started with the Coding Quiz, simply clone this GitHub repository or download the source code as a ZIP file.
 
-1. git clone https://github.com/yourusername/coding-quiz.git
+1. git clone https://github.com/itsamish01/HW4-Coding-Quiz 
 - Once you have the files on your local machine, navigate to the project folder and open the index.html file in your preferred web browser.
 
 ## Usage
